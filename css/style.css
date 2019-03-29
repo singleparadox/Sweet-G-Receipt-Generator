@@ -1,0 +1,8 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+#table_data{
+    /*position: fixed;*/
+    margin-left: 10%;
+}
